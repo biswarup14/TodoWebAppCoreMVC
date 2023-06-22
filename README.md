@@ -1,4 +1,4 @@
  Project is created following MVC 5 pattern and following Code first approach 
  
- ![image](https://github.com/biswarup14/TodoWebAppCoreMVC/assets/60690698/1962b610-193a-4393-aa59-28e336eacdf8)
+![image](https://github.com/biswarup14/TodoWebAppCoreMVC/assets/60690698/2792ffb3-028c-49af-b760-05bfaef2a4d4)
 
